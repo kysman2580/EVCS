@@ -15,6 +15,8 @@ public class Sorry {
 		System.out.println("성준이가 오늘 영화를 보고싶다는데요 여러분?");
 		log.info("너네는 롬복 안 깔아서 안될걸??? 풉키 풉키");
 		log.info("지금 브랜치 새로 팠고 풀 받았습니다잉 ");
+		
+		log.info("관민사마....");
 	}
 	
 
