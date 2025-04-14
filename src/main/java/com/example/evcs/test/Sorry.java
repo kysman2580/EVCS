@@ -30,14 +30,32 @@ public class Sorry {
 		System.out.println("히히 사이에 넣어버러기");
 		System.out.println("ㅎㅎ 머지;");
 		log.info("dfdsfsd");
-		
 
-		
-		
-		
 		log.info("너네는 롬복 안 깔아서 안될걸??? 풉키 풉키");
 		log.info("지금 브랜치 새로 팠고 풀 받았습니다잉 ");
 		
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
+		log.info("관민사마....");
 		log.info("관민사마....");
 		System.out.println("lelelelelele");
 		log.info("너네는 롬복 안 깔아서 안될걸??? 풉키 풉키");
