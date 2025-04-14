@@ -19,6 +19,7 @@ public class Sorry {
 	}
 	
 	
+	
 	{
 		System.out.print("죄송합니당 ㅎㅎ");
 		System.out.print("ㅈㅅ합니당 ㅎㅎ");
@@ -60,6 +61,9 @@ public class Sorry {
 		log.info("너네는 롬복 안 깔아서 안될걸??? 풉키 풉키");
 		log.info("지금 브랜치 새로 팠고 풀 받았습니다잉 ");
 		log.info("진짜 리얼로다가 꺠달아 버렸어요 어떻게 하는지 완벽하게 이해해 버렸다구요");
+		
+		
+		log.info("나 김영수 test브랜치에서 커밋을 하겠다 우하하하");
 	}
 	
 
