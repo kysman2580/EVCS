@@ -28,9 +28,7 @@ public class Sorry {
 		System.out.println("ㅎㅎ 머지;");
 		log.info("dfdsfsd");
 		
-		log.info("{}");
 
-		log.info("너네는 롬복 안 깔아서 안될걸??? 풉키 풉키");
 		
 		
 		System.out.println("성준이가 오늘 영화를 보고싶다는데요 여러분?");
