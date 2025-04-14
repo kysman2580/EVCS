@@ -10,6 +10,7 @@ public class Sorry {
 		System.out.print("ㅈㅅ합니당 ㅎㅎ");
 		System.out.println("하이하이하이");
 		log.info("dfdsfsd");
+		System.out.println("성준이가 오늘 영화를 보고싶다는데요 여러분?");
 	}
 	
 
